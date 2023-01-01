@@ -2,7 +2,7 @@
 ## 介绍
 欢迎使用Florr.io Tool，在使用之前，您应该了解这个工具的用途和您（不）可以使用它的方式。请勿将软件二次倒卖，或用作违法用途。  
 ## 软件开源许可证
-MIT License  
+  [MIT License](https://github.com/12sdj/Florr.io-Tool/blob/main/LICENSE)  
 ## 开发者
   [12sdj](https://github.com/12sdj)  
 ## 使用程序
